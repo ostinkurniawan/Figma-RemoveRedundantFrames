@@ -1,0 +1,6 @@
+{
+  "name": "Remove Redundant Frames",
+  "id": "771568847978383810",
+  "api": "1.0.0",
+  "main": "code.js"
+}
