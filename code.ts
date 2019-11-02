@@ -1,7 +1,5 @@
 // Remove Redundant Frames
-// bb's first figma plugin!!
 // Ostin Kurniawan, 2019
-// Work in progress, use at your own risk
 
 // counts
 var removedFramesCount = 0;
